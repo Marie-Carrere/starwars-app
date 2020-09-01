@@ -9611,6 +9611,11 @@ react-is@^16.8.1, react-is@^16.8.4:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.12.0.tgz#2cc0fe0fba742d97fd527c42a13bec4eeb06241c"
   integrity sha512-rPCkf/mWBtKc97aLL9/txD8DZdemK0vkA3JMLShjlJB3Pj3s+lpf1KaBzMfQrAmhMQB0n1cU/SUGgKKBCe837Q==
 
+react-query@^2.13.0:
+  version "2.13.0"
+  resolved "https://registry.yarnpkg.com/react-query/-/react-query-2.13.0.tgz#8af23c0c91d41bb494c6ec0bf7660e6e21c2fe77"
+  integrity sha512-HUV/pcnovUVUfjSQ/hGtPa5/TSoJfEC/9n5btlqqVNvpko/NSZ/jBROPk4IP4Kp6XTbxc7F/EIijyodM+30FnA==
+
 react-scripts@3.4.3:
   version "3.4.3"
   resolved "https://registry.yarnpkg.com/react-scripts/-/react-scripts-3.4.3.tgz#21de5eb93de41ee92cd0b85b0e1298d0bb2e6c51"
